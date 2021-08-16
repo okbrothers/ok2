@@ -1,0 +1,1 @@
+print("slwwwwww brakammm choooony")
