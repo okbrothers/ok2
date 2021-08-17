@@ -1,1 +1,0 @@
-print("slwwwwww brakammm choooony")
